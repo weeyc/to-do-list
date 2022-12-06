@@ -1,7 +1,7 @@
 
 # To-Do List (Flutter App)
 
-To do list Etiqa Mobile App Developer Flutter Assessment
+To do list Mobile App Developer Flutter Assessment
 
 ➤ The app’s state management, navigation & dependencies management is rely on [GetX Package](https://pub.dev/packages/get) and [Shared Preferences](https://pub.dev/packages/shared_preferences) for local storage.
 
